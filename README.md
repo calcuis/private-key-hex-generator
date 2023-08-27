@@ -1,6 +1,6 @@
 # private-key-hex-generator
 
-The provided Python code is designed to generate a random private key for cryptographic purposes using the Python random module. This private key is commonly used in various cryptographic protocols, such as those used in cryptocurrency systems like Bitcoin.
+The provided Python code is designed to generate a random private key for cryptographic purposes using the Python random module. This private key is commonly used in various cryptographic protocols, such as those used in crypto systems, i.e., Bitcoin.
 
 Here's a step-by-step explanation of the code:
 
